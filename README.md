@@ -5,3 +5,7 @@ I put this together while practicing baseline Windows hardening. I automated che
 **Contents**
 - `windows_hardening.ps1` — script with checks I wrote (firewall, SMBv1, RDP, BitLocker, updates, TLS)
 - `hardening_checklist.md` — the manual+automated steps I walked through
+
+## Future Improvements
+- Add TLS/SSL checks
+- Expand event log auditing
