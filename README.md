@@ -9,3 +9,7 @@ I put this together while practicing baseline Windows hardening. I automated che
 ## Future Improvements
 - Add TLS/SSL checks
 - Expand event log auditing
+
+
+## Quickstart
+Open PowerShell as Administrator and run: .\windows_hardening.ps1
